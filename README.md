@@ -1,655 +1,298 @@
-<!-- =========================================================
-     SOUNAK KUMAR PRADHAN
-     AI / SOFTWARE ENGINEERING GITHUB PROFILE
-     
-     GitHub: github.com/sounakpradhan1980-rgb
-========================================================= -->
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║  STARTUP / FOUNDER-STYLE PROFILE README — SOUNAK KUMAR PRADHAN       ║
+║  GitHub username: sounakpradhan1980-rgb                              ║
+║                                                                      ║
+║  1. Create a PUBLIC repo named exactly: sounakpradhan1980-rgb        ║
+║  2. Tick "Add a README file" and paste this whole file in            ║
+║  3. Search for "REPLACE" to find every placeholder                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=Sounak%20Kumar%20Pradhan&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Builder%20%7C%20Aspiring%20Founder%20%7C%20AI%20%26%20Technology%20Enthusiast&descSize=16&descAlignY=62&animation=fadeIn" alt="Sounak Kumar Pradhan banner" />
+</div>
+
+<h1 align="center">Hi 👋, I'm Sounak Kumar Pradhan</h1>
+
+<div align="center">
+  <a href="https://github.com/sounakpradhan1980-rgb">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&width=750&lines=B.Tech+Student+%7C+Aspiring+Software+Developer;Aspiring+Founder+%7C+Builder+Mindset;Turning+ideas+into+working+products;Exploring+AI%2C+RAG+and+Automation" alt="Typing animation" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,65:172554,100:0891b2&text=SOUNAK%20KUMAR%20PRADHAN&fontColor=ffffff&fontSize=43&fontAlignY=37&desc=BUILDING%20INTELLIGENT%20SOFTWARE%20FOR%20THE%20FUTURE&descAlignY=59&descSize=16&animation=fadeIn"/>
+![Profile Views](https://komarev.com/ghpvc/?username=sounakpradhan1980-rgb&label=Profile%20Views&color=302b63&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/sounakpradhan1980-rgb?label=Followers&style=for-the-badge&logo=github&color=24c6dc&labelColor=0f0c29)
+![Stars](https://img.shields.io/github/stars/sounakpradhan1980-rgb?label=Stars&style=for-the-badge&logo=github&color=24c6dc&labelColor=0f0c29)
 
-<br>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=AI+%2B+Software+Engineering;Building+Intelligent+Applications;Exploring+RAG+%26+Generative+AI;Turning+Ideas+Into+Products;Learn.+Build.+Iterate.+Scale." alt="Typing SVG"/>
+<!-- Mission statement block -->
+<div align="center">
 
-<br><br>
-
-<a href="https://github.com/sounakpradhan1980-rgb">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=sounakpradhan1980-rgb&label=PROFILE%20VIEWS&style=for-the-badge&color=0891b2"/>
-
-<a href="https://github.com/sounakpradhan1980-rgb?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+> **Mission:** Learn deeply, build practical products, and grow into a founder who ships useful AI-powered technology.
 
 </div>
 
 ---
 
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+
+## 🧑‍💻 About Me
+
+I'm a **B.Tech student** and **aspiring software developer** interested in programming, web development, artificial intelligence, data science, and emerging technologies.
+
+I like building practical projects, solving real problems, and experimenting with AI-powered applications. Right now I'm strengthening my **programming fundamentals**, **software development skills**, and **AI/ML knowledge** so I can build products that actually work.
+
+<!-- REPLACE / ADD (optional): "🤝 Open to: collaborations, internships, co-building side projects." -->
+
+---
+
+<!-- ═══════════════════════ FOUNDER MINDSET ═══════════════════════ -->
+
+## 🧠 Builder & Founder Mindset
+
 <div align="center">
 
-### `SOFTWARE × AI × CURIOSITY`
+| 🔍 **Find the Problem** | 🛠️ **Build the Solution** | 🔁 **Iterate Fast** | 🚀 **Ship & Learn** |
+|:--:|:--:|:--:|:--:|
+| Start with real needs | Turn ideas into working prototypes | Improve through feedback | Publish, measure, repeat |
 
-**I build, experiment and learn at the intersection of software engineering and artificial intelligence.**
+</div>
+
+> I'm an **aspiring founder**. I'm not running a company yet. This profile documents the skills I'm building and the products I want to create.
+
+---
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Responsive_Design-302b63?style=flat-square&logo=responsive&logoColor=white" alt="Responsive Web Development" />
+  <img src="https://img.shields.io/badge/Web_Apps-24c6dc?style=flat-square&logo=googlechrome&logoColor=white" alt="Basic Web Application Development" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0f0c29?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/RAG-24c6dc?style=flat-square&logo=databricks&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Assistants-302b63?style=flat-square&logo=probot&logoColor=white" alt="AI Assistants" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0f0c29?style=flat-square&logo=chatbot&logoColor=white" alt="Prompt Engineering" />
+</p>
+
+### Data & Development Tools
+<p>
+  <img src="https://img.shields.io/badge/DSA-302b63?style=flat-square&logo=leetcode&logoColor=white" alt="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/REST_APIs-24c6dc?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+---
+
+<!-- ═══════════════════════ PRODUCT VISION ═══════════════════════ -->
+
+## 💡 Product Areas I'm Passionate About
+
+These are **areas of interest**, not launched products.
+
+<div align="center">
+
+| 🤖 AI Products | 🌐 Software Products | 🔮 Frontier Tech |
+|:--|:--|:--|
+| AI personal assistants | Full-stack web applications | Experimental futuristic projects |
+| RAG-based research assistants | REST API-powered tools | Future technologies |
+| Multi-paper Q&A systems | Responsive web experiences | Data science applications |
+| Intelligent automation tools | Developer-focused tools | AI engineering |
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Sounak
+<!-- ═══════════════════════ ROADMAP ═══════════════════════ -->
 
-I'm a **B.Tech student and aspiring software developer** interested in building intelligent software and exploring the technologies shaping the future.
+## 🧭 Roadmap: Learning → Building → Future Goals
 
-My interests span:
+| Stage | Status | Focus |
+|:--|:--|:--|
+| 📚 **Learning** | 🔵 In progress | Programming fundamentals, DSA, web development, AI/ML, Generative AI, RAG, SQL, Git/GitHub, REST APIs |
+| 🛠️ **Building** | 🟢 Active | Practice projects and a strong foundation to support larger products |
+| 🚀 **Future Goals** | 🟣 Planned | RAG-based multi-paper assistants, AI personal assistants, automation tools, full-stack AI applications |
 
-**Artificial Intelligence · Generative AI · RAG · Machine Learning · Software Engineering · Web Development · Automation · Data**
-
-I enjoy taking an idea from:
-
-```text
-IDEA
-  ↓
-RESEARCH
-  ↓
-EXPERIMENT
-  ↓
-PROTOTYPE
-  ↓
-BUILD
-  ↓
-ITERATE
-  ↓
-SHIP 🚀
-```
-
-My current focus is developing the engineering fundamentals required to turn ambitious ideas into **real, useful software products**.
+<!-- REPLACE / EDIT: Move items between stages as you progress. Only list real, started work under "Building". -->
 
 ---
 
-# ⚡ What I Do
+<!-- ═══════════════════════ WHAT I'M BUILDING ═══════════════════════ -->
 
-<div align="center">
+## 🚀 What I'm Building
 
-<table>
-<tr>
+I'm interested in creating:
 
-<td width="33%" align="center">
-
-## 🤖
-
-### AI ENGINEERING
-
-Exploring intelligent systems, Generative AI, RAG and AI assistants.
-
-</td>
-
-<td width="33%" align="center">
-
-## 💻
-
-### SOFTWARE
-
-Building applications while strengthening programming and software engineering fundamentals.
-
-</td>
-
-<td width="33%" align="center">
-
-## 🚀
-
-### PRODUCT THINKING
-
-Turning ideas into practical experiments, prototypes and future products.
-
-</td>
-
-</tr>
-</table>
-
-</div>
+- 🤖 **AI-powered personal assistants**
+- 📄 **RAG-based research paper assistants**
+- 🔎 **Multi-research-paper question-answering systems**
+- ⚙️ **Intelligent automation tools**
+- 🌐 **Full-stack web applications**
+- 🧪 **Experimental, futuristic technology projects**
 
 ---
 
-# 🧠 Current Mission
+<!-- ═══════════════════════ CURRENTLY LEARNING ═══════════════════════ -->
 
-<div align="center">
+## 📚 Currently Learning
 
-<table>
-<tr>
-<td>
+- 🔹 Programming fundamentals in **Java, C, and Python**
+- 🔹 **Data Structures & Algorithms** and problem solving
+- 🔹 **Web development**: HTML, CSS, JavaScript, responsive design
+- 🔹 **AI & Machine Learning** with Python
+- 🔹 **Generative AI**, Prompt Engineering, and **RAG** concepts
+- 🔹 **SQL**, **Git/GitHub**, and **REST APIs**
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│          BUILD THE FOUNDATION                │
-│                                              │
-│     Programming → DSA → Software             │
-│                     ↓                        │
-│                AI / ML                       │
-│                     ↓                        │
-│             Generative AI                    │
-│                     ↓                        │
-│                RAG / Agents                  │
-│                     ↓                        │
-│            Intelligent Systems                │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> **Long-term direction:** become a strong software/AI engineer capable of designing and building intelligent systems from the ground up.
+<!-- REPLACE / EDIT: Update as your learning changes. -->
 
 ---
 
-# 🧰 Technology Stack
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
-<div align="center">
+## 📌 Featured Projects
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
-
-<br><br>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-
-<br><br>
-
-### AI / Emerging Technologies
-
-<img src="https://img.shields.io/badge/AI-020617?style=for-the-badge&logo=probot&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Generative%20AI-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Assistants-164E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-4338CA?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🏗️ Building Now
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 JARVIS AI Assistant
-
-An experimental AI assistant project exploring intelligent interaction, automation and future AI capabilities.
-
-**Focus**
-
-`AI` `Automation` `Assistants`
-
-[→ View Repository](https://github.com/sounakpradhan1980-rgb/Jarvis_AI_ASSISTANT)
-
-</td>
-
-<td width="50%">
-
-### 📚 Research Intelligence
-
-Exploring RAG systems capable of retrieving information from research papers and generating evidence-based answers.
-
-**Focus**
-
-`RAG` `Generative AI` `Research`
-
-**Status:** `EXPLORING`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🔬 Multi-Paper AI
-
-Exploring systems that can understand and retrieve knowledge across multiple research papers.
-
-**Focus**
-
-`RAG` `NLP` `AI`
-
-**Status:** `EXPLORING`
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Intelligent Automation
-
-Exploring software that combines AI with automation to reduce repetitive work.
-
-**Focus**
-
-`AI` `Automation` `APIs`
-
-**Status:** `IDEATION`
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 📡 Current Focus
-
-<div align="center">
-
-| AREA                            | STATUS | DIRECTION     |
-| :------------------------------ | :----: | :------------ |
-| 🧩 Data Structures & Algorithms |   🟢   | Strengthening |
-| 🐍 Python                       |   🟢   | Building      |
-| ☕ Java                          |   🟢   | Building      |
-| 🤖 AI / ML                      |   🟡   | Deepening     |
-| ✨ Generative AI                 |   🟡   | Exploring     |
-| 🔎 RAG                          |   🟡   | Exploring     |
-| 🌐 Web Development              |   🟢   | Building      |
-| 🗄️ SQL                         |   🟢   | Learning      |
-| ⚙️ Automation                   |   🟡   | Experimenting |
-
-</div>
-
----
-
-# 🔬 Research & Build Interests
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-AI%20Assistants-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-RAG%20Systems-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-Research%20AI-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04-AI%20Automation-164E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-Full--Stack-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06-Future%20Tech-7C3AED?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧪 Product Lab
-
-### Ideas I'm exploring
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🤖 PERSONAL AI                                             │
-│     Intelligent assistants + automation                     │
-│                                                             │
-│  📚 RESEARCH AI                                             │
-│     Multi-document knowledge retrieval                       │
-│                                                             │
-│  🔎 RAG                                                      │
-│     Grounded question answering                              │
-│                                                             │
-│  ⚙️ AUTOMATION                                               │
-│     AI-powered workflows                                     │
-│                                                             │
-│  🌐 SOFTWARE                                                 │
-│     Practical full-stack applications                        │
-│                                                             │
-│  🧪 FUTURE TECHNOLOGY                                       │
-│     Experimental ideas and ambitious prototypes              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🗺️ Engineering Roadmap
-
-<div align="center">
-
-```text
-                  ┌─────────────────┐
-                  │   PROGRAMMING   │
-                  │   FUNDAMENTALS  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │      DSA        │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ SOFTWARE DEV    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   WEB / APIs    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   AI / ML       │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ GENERATIVE AI   │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   RAG / AGENTS  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ AI ENGINEERING  │
-                  └─────────────────┘
-```
-
-</div>
-
----
-
-# 📊 GitHub Command Center
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sounakpradhan1980-rgb&show_icons=true&hide_border=true&theme=tokyonight&bg_color=020617&title_color=22d3ee&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sounakpradhan1980-rgb&layout=compact&hide_border=true&theme=tokyonight&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&langs_count=8" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sounakpradhan1980-rgb&theme=dark&hide_border=true&background=020617&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff" width="75%"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sounakpradhan1980-rgb&bg_color=020617&color=67e8f9&line=0891b2&point=ffffff&area_color=164e63&area=true&hide_border=true&custom_title=Sounak's%20Engineering%20Activity" width="96%"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sounakpradhan1980-rgb&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="96%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Matrix
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sounakpradhan1980-rgb/sounakpradhan1980-rgb/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 🧠 Developer Operating System
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🔍
-
-**CURIOSITY**
-
-Ask better questions.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**LEARNING**
-
-Understand the fundamentals.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️
-
-**BUILDING**
-
-Turn knowledge into software.
-
-</td>
-
-<td align="center" width="25%">
-
-### 📈
-
-**ITERATING**
-
-Improve every version.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🎯 2026 — Build Mode
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### 🧠
-
-**FOUNDATION**
-
-DSA
-Programming
-Software Engineering
-
-</td>
-
-<td align="center">
-
-### 🤖
-
-**AI**
-
-Machine Learning
-Generative AI
-RAG
-
-</td>
-
-<td align="center">
-
-### 🚀
-
-**SHIP**
-
-Projects
-Experiments
-Open Source
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
-```text
-2026 OBJECTIVE
-
-████████████████████████████████████████████████
-
-Build stronger fundamentals.
-Build smarter systems.
-Build more real projects.
-```
-
----
-
-# 💡 The Philosophy
-
-<div align="center">
-
-### **"Don't just learn technology. Build with it."**
-
-<br>
-
-```text
-LEARN
-   ↓
-UNDERSTAND
-   ↓
-EXPERIMENT
-   ↓
-BUILD
-   ↓
-BREAK
-   ↓
-DEBUG
-   ↓
-IMPROVE
-   ↓
-SHIP 🚀
-```
-
-</div>
-
----
-
-# 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/sounakpradhan1980-rgb">
-
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<!-- Replace with your real LinkedIn -->
-
-<a href="[YOUR_LINKEDIN_URL]">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<!-- Replace with your real email -->
-
-<a href="mailto:sounakpradhan1980@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<!-- Replace when portfolio is ready -->
-
-<a href="[YOUR_PORTFOLIO_URL]">
-
-<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</a>
-
-<!-- Replace with your Instagram -->
-
-<a href="[YOUR_INSTAGRAM_URL]">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-### `SOUNAK KUMAR PRADHAN`
-
-**B.Tech Student • Software Developer • AI Explorer**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Building+the+future%2C+one+commit+at+a+time.;Ideas+are+cheap.+Building+is+the+hard+part.;Learn.+Build.+Iterate.+Repeat." alt="Footer Animation"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,30:0f172a,65:164e63,100:0891b2&section=footer" width="100%"/>
-
-</div>
+> Placeholders for now. Replace each with a real repository when it's ready.
 
 <!--
-===========================================================
-                         NOTES
-===========================================================
-
-GitHub:
-https://github.com/sounakpradhan1980-rgb
-
-Existing project:
-https://github.com/sounakpradhan1980-rgb/Jarvis_AI_ASSISTANT
-
-Replace:
-[YOUR_LINKEDIN_URL]
-[YOUR_PORTFOLIO_URL]
-[YOUR_INSTAGRAM_URL]
-
-The contribution snake requires a GitHub Action.
-Do not claim projects, achievements, certifications or
-experience that you have not actually completed.
-
-===========================================================
+  HOW TO ADD A REAL PROJECT CARD:
+  1. Uncomment a card below (remove the <!-- and --> wrappers).
+  2. Replace YOUR_REPO_NAME_1 (twice per card) with your actual repository name.
 -->
+
+<div align="center">
+
+<!-- PROJECT 1 — REPLACE YOUR_REPO_NAME_1 -->
+<!-- <a href="https://github.com/sounakpradhan1980-rgb/YOUR_REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakpradhan1980-rgb&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1" />
+</a> -->
+
+<!-- PROJECT 2 — REPLACE YOUR_REPO_NAME_2 -->
+<!-- <a href="https://github.com/sounakpradhan1980-rgb/YOUR_REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sounakpradhan1980-rgb&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
+</a> -->
+
+</div>
+
+<!-- Placeholder table: delete once you add real projects -->
+
+| Project | Problem It Solves | Tech Used | Link |
+|:--|:--|:--|:--|
+| 🔹 **Project Name 1** *(REPLACE)* | Describe the problem *(REPLACE)* | Tech *(REPLACE)* | [Repository](https://github.com/sounakpradhan1980-rgb) *(REPLACE)* |
+| 🔹 **Project Name 2** *(REPLACE)* | Describe the problem *(REPLACE)* | Tech *(REPLACE)* | [Repository](https://github.com/sounakpradhan1980-rgb) *(REPLACE)* |
+| 🔹 **Project Name 3** *(REPLACE)* | Describe the problem *(REPLACE)* | Tech *(REPLACE)* | [Repository](https://github.com/sounakpradhan1980-rgb) *(REPLACE)* |
+
+---
+
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+
+## 📊 GitHub Statistics
+
+<!-- Stats update automatically. They may look sparse at first, which is normal. -->
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sounakpradhan1980-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sounakpradhan1980-rgb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+### 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sounakpradhan1980-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sounakpradhan1980-rgb&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+## 🤝 Let's Build Together
+
+<!--
+  REPLACE the placeholders below:
+  - LinkedIn : YOUR-LINKEDIN-USERNAME
+  - Email    : YOUR-EMAIL@example.com (appears in the link AND the badge)
+  - Portfolio: https://your-portfolio-url.com
+  - Instagram: YOUR-INSTAGRAM-USERNAME
+-->
+
+<div align="center">
+
+Interested in AI, startups, or building something together? Let's connect.
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://your-portfolio-url.com">
+  <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ CLOSING ═══════════════════════ -->
+
+<div align="center">
+
+### 💡 *"The best way to predict the future is to build it, one project at a time."*
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Learn+relentlessly.;Build+fearlessly.;Ship+consistently." alt="Closing animation" />
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer wave" />
+</div>
